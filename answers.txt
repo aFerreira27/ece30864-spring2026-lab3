@@ -4,3 +4,6 @@ a.  Pros:   Allows teams to pivot based on customer feedback
             Agile development often focuses on working software over detailed documentation which could leave gaps in technical records making maintenance much more difficult
 b.  Scrum Master:   The primary role of the scrum master is to ensure maximal productivity from the team, focusing on the "how" vs the what or the why. They organize and lead daily stand-ups, sprint plannings, and reviews.
     Product Owner:  More responsible for the "what" or "why" of the process. Defines a clear roadmap to a long-term Product Goal. In charge of managing the backlog and taking user feedback into account
+c.  Sprint Planning Meeting:    Determine what must be completed in the upcomming sprint, determine story points and assing stories to teams
+    Daily Scrum / Standup:      Team discusses work completed, plan work for day and resolve blockers
+    Sprint Retrospective:       End of sprint, disscuss and review work completed, incomplete work moved to backlog
