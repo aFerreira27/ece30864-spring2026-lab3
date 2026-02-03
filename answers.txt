@@ -7,3 +7,7 @@ b.  Scrum Master:   The primary role of the scrum master is to ensure maximal pr
 c.  Sprint Planning Meeting:    Determine what must be completed in the upcomming sprint, determine story points and assing stories to teams
     Daily Scrum / Standup:      Team discusses work completed, plan work for day and resolve blockers
     Sprint Retrospective:       End of sprint, disscuss and review work completed, incomplete work moved to backlog
+d.  Epic:   Large scale body of work which can be broken into several smaller stories, multi-sprint issues for significant deliverables
+    Story:  A specific user-facing feature which is meant to be implemented over a sprint
+    Bug:    Errors which need to be fixed for full functioning of the code
+    Task:   Technical and non-functional work such as database or documentation updating 
