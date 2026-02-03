@@ -1,0 +1,4 @@
+a.  Pros:   Allows teams to pivot based on customer feedback
+            Drastically increases frequency of software updates and allows quicker time to market
+    Cons:   As the scope is constantly changing, the methodology lacks predictability
+            Agile development often focuses on working software over detailed documentation which could leave gaps in technical records making maintenance much more difficult
